@@ -1,0 +1,16 @@
+﻿body {
+    font-family: monospace;
+    font-size: 2.4em;
+    color: #FFFFFF;
+    background-color: #000000;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+span {
+    padding: 0;
+    margin: 0;
+}
+
