@@ -1,1 +1,0 @@
-//# sourceMappingURL=ishape.js.map
